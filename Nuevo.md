@@ -60,6 +60,8 @@
     </style>
 
 ### Conclusion 
+La teoría de autómatas y lenguajes formales se utiliza en una amplia gama de aplicaciones, incluyendo compiladores, diseño de lenguajes de programación, inteligencia artificial, lingüística computacional, bioinformática y verificación de software. Su impacto en la ciencia y la tecnología es significativo, y su desarrollo continuo seguirá impulsando la innovación en estas áreas.
+
 ### Referencias:
 
 
