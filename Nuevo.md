@@ -31,6 +31,25 @@
         <th>Teoría de los lenguajes formales<th>
         <th>Avram Noam Chomsky: - Introduce la Teoría de los Lenguajes Formales. - Crea herramientas que se aplican al lenguaje natural y de programación. - Establece 4 grados de relación entre máquinas y lenguajes formales: - Tipo 0: Lenguajes sin restricción, problemas computables. - Tipo 1: Con restricciones, autómatas lineales acotados. - Tipo 2: Analizados con autómatas a pila. - Tipo 3: Lenguajes regulares y autómatas finitos.<th>
     <tr>
+    <tr>
+        <th> 1956 <th>
+        <th>John Backus crea el primer compilador.<th>
+        <th>Impacto en el desarrollo de lenguajes de programación<th>
+    <tr>
+    <tr>
+        <th> 1960s <th>
+        <th>Desarrollo de diversos tipos de autómatas: a pila, linealmente acotados, etc.<th>
+        <th>Ampliación de la teoría de autómatas y su aplicabilidad<th>
+    <tr>
+    <tr>
+        <th> 1970 <th>
+        <th>Stephen Cook extiende el estudio de la máquina de Turing.<th>
+        <th>Avances en la teoría de la complejidad computacional<th>
+    <tr>
+      <tr>
+        <th> Actualidad <th>
+        <th>La teoría de autómatas y lenguajes formales se aplica en diversas áreas: * Compiladores * Diseño de lenguajes de programación * Inteligencia artificial * Lingüística computacional * Bioinformática * Verificación de software<th>
+    <tr>
 <table>
 
 <style>
@@ -39,3 +58,11 @@
         border-collapse: collapse;
     }
     </style>
+
+### Conclusion 
+### Referencias:
+
+
+- Wikipedia. (2024, 1 de febrero). Lenguaje formal . Wikipedia, La Enciclopedia Libre. https://es.wikipedia.org/wiki/Lenguaje_formal
+
+- (s/f) Introducción a la Teoría de Autómatas y Lenguajes Formales: https://dehesa.unex.es/bitstream/10662/2367/1/978-84-691-6345-0.pdf
